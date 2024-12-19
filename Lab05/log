@@ -1,0 +1,31 @@
+/home/iorthodo/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: path/to/directory: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 411086      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1241/iorthodo)   Gid: ( 1243/iorthodo)
+Access: 2024-12-19 13:09:20.929292107 +0200
+Modify: 2024-12-19 13:09:20.929292107 +0200
+Change: 2024-12-19 13:09:20.929292107 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete': No such file or directory
+rm: cannot remove 'file_to_delete': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./source.txt
+./newname.txt
+./destination.txt
+cat: file.txt: No such file or directory
+file.txt: No such file or directory
+head: cannot open 'file.txt' for reading: No such file or directory
+tail: cannot open 'file.txt' for reading: No such file or directory
